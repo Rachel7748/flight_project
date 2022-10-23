@@ -1,0 +1,40 @@
+[
+    {
+         "username":"merav",
+         "password":"mer49",
+         "email":"merav85@gmail.com",
+         "user_role":"customer"
+      },
+      {
+         "username":"liron",
+         "password":"lir04",
+         "email":"liron55@walla.com",
+         "user_role":"customer"
+      },
+      {
+         "username":"elal",
+         "password":"el46",
+         "email":"elalil@gmail.com",
+         "user_role":"airline"
+      },
+      {
+         "username":"jetblue",
+         "password":"je7258",
+         "email":"jetblue78@gmail.com",
+         "user_role":"airline"
+     },
+     {
+         "username":"adi",
+         "password":"ad196",
+         "email":"adior@gmail.com",
+         "user_role":"admin"
+
+     },
+     {
+         "username":"michal",
+         "password":"mic47",
+         "email":"mical65@walla.com",
+         "user_role":"admin"
+
+     }
+       ]
